@@ -5,4 +5,4 @@
 - [CSS](https://developer.mozilla.org/zh-CN/docs/Web/CSS)
 - [JS]()
 - [REACT](https://facebook.github.io/react/)
-- [如何制作本书gitbook](./context/how-to-design-gitbook.md)
+- [如何制作本书gitbook](how-to-design-gitbook.md)
