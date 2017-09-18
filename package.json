@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/ffjy/tutorial/issues"
   },
-  "homepage": "https://github.com/ffjy/tutorial#readme"
+  "homepage": "https://github.com/ffjy/tutorial#readme",
+  "devDependencies": {
+    "gh-pages": "^1.0.0"
+  }
 }
